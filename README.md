@@ -25,4 +25,7 @@ No need to ssh into, just old plain https based messaging - but also a realtime 
 
 Why not let a station be also managed ? We see no reason not to do that.
 
+This is the main part. But also, you can control a pice of software running on the remote server in reverse: there is no reason not to be able to request informations about a server or to force performing such an operation per server,server group.
+And the posibilities are limitless.
+
 So here we go...
