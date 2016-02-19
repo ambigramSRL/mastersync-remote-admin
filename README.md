@@ -15,6 +15,7 @@ What is the best way to scale ?
 Our idee is that every server can act as clients for a central server that send message to 
 
 Remote Servers can 
+
 1. be listed individual
 2. be part of groups
 3. notify about conditions the central admin panel
